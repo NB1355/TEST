@@ -1,0 +1,9 @@
+*.sqlite3
+*.pyc
+__pycache__
+
+
+# ///////////////////////
+credentials.txt
+.env
+node_modules/
